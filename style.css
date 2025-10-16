@@ -1,7 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   background: linear-gradient(135deg, #ffdde1, #ee9ca7);
-  height: 100vh;
+  height: 200vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -77,4 +77,5 @@ button:hover {
   transform: rotateY(180deg); /* ✅ Giúp chữ không bị ngược */
 
 }
+
 
