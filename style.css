@@ -1,7 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   background: linear-gradient(135deg, #ffdde1, #ee9ca7);
-  height: 200vh;
+  height: 1100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,7 +44,7 @@ button:hover {
 /* Cuốn sách */
 .book {
   position: relative;
-  width: 450px;
+  width: 470px;
   height: 590px;
   perspective: 2000px;
   display: none;
@@ -77,5 +77,6 @@ button:hover {
   transform: rotateY(180deg); /* ✅ Giúp chữ không bị ngược */
 
 }
+
 
 
